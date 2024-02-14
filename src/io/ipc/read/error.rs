@@ -90,7 +90,7 @@ pub enum OutOfSpecKind {
         /// The requested dictionary id
         requested_id: i64,
     },
-    /// Field id is not a dictionary
+    /// Field id is not a dictioncary
     InvalidIdDataType {
         /// The requested dictionary id
         requested_id: i64,
