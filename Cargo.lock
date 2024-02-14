@@ -1551,7 +1551,7 @@ dependencies = [
 [[package]]
 name = "parquet2"
 version = "0.17.0"
-source = "git+ssh://git@github.com/optiprism-io/parquet2.git#ff0dd959401f5767f284dcbd195425859fe07e7b"
+source = "git+https://git@github.com/optiprism-io/parquet2.git#ff0dd959401f5767f284dcbd195425859fe07e7b"
 dependencies = [
  "async-stream",
  "brotli",
