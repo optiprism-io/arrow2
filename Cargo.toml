@@ -105,7 +105,7 @@ getrandom = { version = "0.2", features = ["js"] }
 
 # parquet support
 [dependencies.parquet2]
-git = "https://github.com/optiprism-io/parquet2.git"
+git = "ssh://git@github.com/optiprism-io/parquet2.git"
 #version = "0.17"
 optional = true
 default_features = false
